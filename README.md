@@ -11,7 +11,6 @@
 - 🎯 My goal is to become a **Full-Stack Developer** capable of designing, developing, and deploying scalable systems.  
 
 📍 **Location:** Da Nang City, Vietnam  
-📧 **Contact:** [khanhdangabc2@gmail.com](mailto:khanhdangabc2@gmail.com)
 
 ---
 
