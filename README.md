@@ -56,10 +56,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caindandut&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caindandut&layout=compact&theme=radical" alt="Top Languages" height="160" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=caindandut&theme=github-compact"  height="160"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caindandut&layout=compact&theme=tokyonight" height="160" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
