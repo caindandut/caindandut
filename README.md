@@ -56,9 +56,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=caindandut&theme=github-compact"  height="160"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caindandut&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caindandut&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caindandut&theme=tokyonight" />
 </p>
+
 ---
 
 ### 🌐 Connect With Me
