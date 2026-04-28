@@ -1,69 +1,102 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Le+Dang+Khanh;Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00BFFF&height=220&section=header&text=Le%20Dang%20Khanh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
-
-### 🚀 About Me
-- 👨‍💻 I love creating **modern**, **responsive**, and **user-friendly** web applications.  
-- 🌱 Currently improving my skills in **React**, **Node.js**, and **MySQL**.  
-- 💡 I enjoy turning ideas into digital products that make people's lives easier.  
-- 🎯 My goal is to become a **Full-Stack Developer** capable of designing, developing, and deploying scalable systems.  
-
-📍 **Location:** Da Nang City, Vietnam  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💬 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" title="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP" />
-</p>
-
-#### 🎨 Frontend Frameworks & UI Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" title="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40" alt="Shadcn UI" title="Shadcn UI" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" title="Vite" />
-</p>
-
-#### ⚙️ Backend Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" title="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" height="40" alt="Express" title="Express" />
-</p>
-
-#### 🗄️ Database & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" title="VS Code" />
-</p>
-
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caindandut&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caindandut&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Le+Dang+Khanh;Web+Developer+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Modern+UI+%7C+Responsive+Design+%7C+Scalable+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caindandut&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00BFFF?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Style-Modern%20%7C%20Clean%20%7C%20Responsive-111827?style=for-the-badge" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## ✨ About Me
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+
+* 👨‍💻 I love building **modern**, **responsive**, and **user-friendly** web applications.
+* 🌱 Currently improving my skills in **React**, **Node.js**, and **MySQL**.
+* 💡 I enjoy turning ideas into digital products that make life easier.
+* 🎯 My goal is to become a **Full-Stack Developer** who can design, develop, and deploy scalable systems.
+
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="220" alt="coding animation" />
+    </td>
+  </tr>
+
+</table>
+
+📍 **Location:** Da Nang City, Vietnam
+
+---
+
+## 🧠 Tech Stack
+
+### 💬 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,php&theme=dark" alt="Languages" />
+</p>
+
+### 🎨 Frontend & UI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,vscode&theme=dark" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="mailto:khanhdangabc2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/caindandut"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caindandut&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caindandut&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caindandut&theme=tokyonight&utcOffset=7" height="170" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=caindandut&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:khanhdangabc2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/caindandut">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0f2027&height=140&section=footer" />
 </p>
